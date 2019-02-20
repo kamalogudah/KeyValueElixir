@@ -1,4 +1,4 @@
-defmodule KV do
+defmodule KV.Bucket do
   @moduledoc """
   Documentation for KV.
   """
